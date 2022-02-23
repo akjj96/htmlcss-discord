@@ -92,37 +92,38 @@ nav ul li{
     padding-top: 100px;
 }
 
+
 #rana{
-    position: relative;
-    min-height: 546px;
+    margin-left: 200px;
+}
+#rana .container {
+    width: 700px;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    float: left;  
+}
+#rana .testo{
+    padding-top: 35px;
+    width: 900px;
 }
 
-#rana .container{
-    max-width: 780px;
-    padding-top: 100px;
-}
-
-#rana img{
-    position: absolute;
-    left: 200px;
-}
-
-#rana h1{
-    position: absolute;
-    left: 950px;
-    top: 130px;
-}
-#rana p{
-    position: absolute;
-    left: 950px;
-    top: 330px;
-}
-
-.wave{
+.wave img{
     width: 100%;
-    height: 60px;
-    background-image: url(../img/wave.svg);
-    color: grey;
-   
+    height: 50px;
 }
+
+
+#mago .container {
+    width: 700px;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    float: right;  
+}
+#mago .testo{
+    padding-top: 35px;
+    width: 900px;
+}
+
 
